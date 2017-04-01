@@ -1,5 +1,7 @@
 # My module
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/node-es2017-boilerplate.svg)](https://greenkeeper.io/)
+
 ## Usage
 - install/configure
 - run
